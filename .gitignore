@@ -3,3 +3,6 @@ data/
 *.tif
 *.ers
 *.pt
+.venv/
+logs/
+__pycache__/
