@@ -6,3 +6,5 @@ rasterio
 geopandas
 pyogrio
 matplotlib
+torch
+scikit-learn
