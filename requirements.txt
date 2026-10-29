@@ -5,3 +5,4 @@ pyproj
 rasterio
 geopandas
 pyogrio
+matplotlib
