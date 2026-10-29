@@ -9,7 +9,7 @@ set -euo pipefail
 source ~/venvs/copper/bin/activate
 cd ~/CopperCNN
 
-python preprocess/build_grid.py \
+python -u preprocess/build_grid.py \
   --data-dir /cluster/scratch/$USER/sarig_data \
   --out-dir /cluster/scratch/$USER/copper_grid \
   --res 100
